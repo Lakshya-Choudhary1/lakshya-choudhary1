@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi 👋! My name is Lakshya and I'm a Web Developer, from India</h1>
 
 ###
@@ -32,10 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="68" alt="webflow logo"  />
 </div>
-
-###
-
-<img align="right" height="237" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzMjkxMTIsIm5iZiI6MTc0MzMyODgxMiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDEwMDAxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwOWQwNzI2NGY1ZTkyNTc2Yjc5OGNlNzc2YWYwNTVkOGYxYjYzZDUyZTdiYWJiMDJhMDIzMTEyNmM2YTRjOGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2dpYyXHminqmNCi1E65FJs6_B93xUmMMBEFRNyIqQ7g"  />
 
 ###
 
