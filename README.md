@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="left">Hi 👋! My name is Lakshya and I'm a Web Developer, from India</h1>
 
 ###
